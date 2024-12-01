@@ -1,0 +1,10 @@
+*.pdf
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.md_
+raw_images/
+dataset/
+.ipynb_checkpoints/
+**/__pycache__/
